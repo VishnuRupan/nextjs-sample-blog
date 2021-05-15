@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Overview 
 
-This was my project built with Next.js to test out the getStaticProps and getServerSideProps. This also happens to be my first blog site, but a future one will be made with much better UI and functionality. 
+This was my first project built with Next.js to test out the getStaticProps and getServerSideProps. This also happens to be my first blog site, but a future one will be made with much better UI and functionality. 
 
 First, run the development server:
 
