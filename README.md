@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Link To Site: [Vishnu's Blog](https://nextjs-sample-blog-six.vercel.app/)
+
+# Overview 
+
+This was my project built with Next.js to test out the getStaticProps and getServerSideProps. This also happens to be my first blog site, but a future one will be made with much better UI and functionality. 
+
 First, run the development server:
 
 ```bash
